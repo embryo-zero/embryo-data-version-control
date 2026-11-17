@@ -1,3 +1,13 @@
+.. embryo-brand
+
+===========================
+Embryo Data Version Control
+===========================
+
+**Embryo Data Version Control** is Embryo-Zero's fork of `dvc <https://github.com/iterative/dvc>`_, made by Embryo Zero Backyard Data Center Corporation. Our changes are on the ``embryo`` branch; see EMBRYO.md, LEGAL.md and CHANGES-EMBRYO.md. The original project's README follows unchanged, with its authors' credits.
+
+----
+
 |Banner|
 
 `Website <https://dvc.org>`_
